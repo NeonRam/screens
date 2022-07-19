@@ -5,7 +5,7 @@ import Change from './components/change';
 function App() {
   return (
     <div className="App">
-      <Privacy/>
+      <Change/>
     </div>
   );
 }

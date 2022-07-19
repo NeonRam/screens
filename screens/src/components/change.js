@@ -37,9 +37,7 @@ export default function change() {
             alignItems: 'center',
           }}
         >
-          <Avatar sx={{ m: 1, bgcolor: 'secondary.main' }}>
-            <LockOutlinedIcon />
-          </Avatar>
+          <Avatar src="https://christianacare.org/wp-content/themes/cchs/library/images/christiancare-logo.svg"/>
           <Typography component="h1" variant="h5">
             Change Password
           </Typography>
